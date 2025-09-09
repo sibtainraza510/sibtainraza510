@@ -3,13 +3,13 @@
 <h1 align="center">
   👋 Hi, I'm <span style="color:#4db6ac;"><b>MOHD SIBTAYN RZA</b></span>
   <br/>
-  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+ML+Engineer;Full-Stack+Developer;Open+Source+Contributor;Always+Learning!&center=true&width=500&height=60&color=050e99&vCenter=true&size=34" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Full-Stack+Developer;Open+Source+Contributor;Always+Learning!&center=true&width=500&height=60&color=050e99&vCenter=true&size=34" alt="Typing SVG">
 </h1>
 
 
 <h3 align="center">
-  🚀 3rd-year Engineering Student | Passionate about <span style="color:#00c4cc"><b>Data Science</b></span> & <span style="color:#fc8a00"><b>Web Development</b></span> <br/>
-  🔍 Exploring real-world projects to master <b>ML, Analytics, and Modern Web Tech</b> <br/>
+  🚀 4th-year Engineering Student 
+  🔍 Exploring real-world projects to master <b> Modern Web Tech</b> <br/>
   💻 <em>Turning ideas into code</em> | 📈 <em>Always Curious, Always Learning</em>
 </h3>
 
@@ -21,17 +21,10 @@
 
   <h3>🔭 <span style="color:#f39c12;">Current Projects</span></h3>
 
-  - 💡 Building <a href="https://github.com/sibtainraza510/tech-courses-fullstack"> 🚀  
-  - 🧠 ML-based projects on sentiment analysis, prediction systems & automation
 
   <br/>
 
-  <h3>🌱 <span style="color:#3498db;">Currently Learning</span></h3>
-
-  - Deep Learning (CNNs, RNNs, Transfer Learning)
-  - External Insights of ML – Data Ethics, Optimization, Real-time Deployment
-
-  <br/>
+ 
 
   <h3>📫 <span style="color:#9b59b6;">Contact Me</span></h3>
 
@@ -102,29 +95,11 @@
 
 
   
-## 🌐 My Coding Profiles
 
-<p align="center">
-  
-  
-  <a href="https://leetcode.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40" style="margin: 10px;" />
-  </a>
-  
-  
-</p>
-
-
-</p>
-
----
 
 
 ### 🚀 Languages and Tools
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.cprogramming.com/)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://www.w3schools.com/cpp/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -138,17 +113,10 @@
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![EmailJS](https://img.shields.io/badge/EmailJS-3333CC?style=for-the-badge&logo=gmail&logoColor=white)](https://www.emailjs.com/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
-[![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://seaborn.pydata.org/)
-[![NLTK](https://img.shields.io/badge/NLTK-009688?style=for-the-badge&logo=python&logoColor=white)](https://www.nltk.org/)
-[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0A192F?style=for-the-badge&logo=AI&logoColor=white)](https://en.wikipedia.org/wiki/Machine_learning)
-[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 
 
